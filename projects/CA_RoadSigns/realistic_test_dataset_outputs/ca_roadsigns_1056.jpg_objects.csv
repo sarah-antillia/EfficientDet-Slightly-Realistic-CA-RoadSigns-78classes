@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1056.jpg,Dip,0.98,989,447,1098,557
+ca_roadsigns_1056.jpg,No_parking,0.94,10,9,224,226
+ca_roadsigns_1056.jpg,Narrow_structure_ahead,0.93,502,230,637,366
+ca_roadsigns_1056.jpg,No_stopping,0.48,746,338,810,407

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1009.jpg,Must_proceed_straight,0.99,9,12,147,145
+ca_roadsigns_1009.jpg,Route_for_dangerous_goods_vehicles,0.97,254,121,391,255
+ca_roadsigns_1009.jpg,Road_surface_slippery_when_wet,0.94,989,449,1194,655
+ca_roadsigns_1009.jpg,No_right_turn_on_red,0.88,746,341,879,544

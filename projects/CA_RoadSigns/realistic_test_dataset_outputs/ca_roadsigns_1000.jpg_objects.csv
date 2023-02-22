@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1000.jpg,School_bus_stop_ahead,0.97,991,447,1196,656
+ca_roadsigns_1000.jpg,Railway_crossing,0.97,502,228,700,431
+ca_roadsigns_1000.jpg,Keep_left,0.96,745,341,907,544
+ca_roadsigns_1000.jpg,Bike_lane,0.44,251,118,312,188

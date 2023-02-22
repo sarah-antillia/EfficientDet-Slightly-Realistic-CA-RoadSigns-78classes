@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1022.jpg,Parking,0.96,744,338,951,544
+ca_roadsigns_1022.jpg,No_entry,0.95,991,449,1194,656
+ca_roadsigns_1022.jpg,Traffic_calmed_neighborhood,0.93,499,229,681,369
+ca_roadsigns_1022.jpg,Railway_crossing,0.73,7,8,79,79

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1040.jpg,Cul_de_sac,0.99,990,449,1188,651
+ca_roadsigns_1040.jpg,Bicycle_crossing_ahead,0.52,497,226,568,297
+ca_roadsigns_1040.jpg,No_littering,0.42,10,11,79,82
+ca_roadsigns_1040.jpg,Roundabout_ahead,0.41,744,340,813,408

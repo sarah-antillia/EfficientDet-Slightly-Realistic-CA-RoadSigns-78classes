@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1080.jpg,Multiple_curves_ahead,0.99,744,338,882,474
+ca_roadsigns_1080.jpg,Turn_left_or_right,0.98,254,118,456,322
+ca_roadsigns_1080.jpg,Yield_sign_ahead,0.96,990,447,1123,584
+ca_roadsigns_1080.jpg,Bicycle_crossing_ahead,0.57,10,11,77,78

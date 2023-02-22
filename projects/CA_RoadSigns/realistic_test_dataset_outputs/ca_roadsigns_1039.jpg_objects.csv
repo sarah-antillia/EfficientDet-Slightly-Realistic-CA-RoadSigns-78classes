@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1039.jpg,Dangerous_goods_vehicles_prohibited,0.99,11,10,224,225
+ca_roadsigns_1039.jpg,Narrow_structure_ahead,0.98,254,120,455,323
+ca_roadsigns_1039.jpg,Approaching_an_intersection,0.97,745,340,945,542
+ca_roadsigns_1039.jpg,Uneven_surface,0.96,501,228,660,391
+ca_roadsigns_1039.jpg,No_parking,0.94,988,448,1208,670

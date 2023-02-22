@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1066.jpg,Drawbridge_ahead,0.99,255,121,388,256
+ca_roadsigns_1066.jpg,Watch_for_fallen_or_falling_rocks,0.98,500,229,633,364
+ca_roadsigns_1066.jpg,Two_way_traffic,0.93,988,449,1098,585
+ca_roadsigns_1066.jpg,Stop_ahead,0.92,11,11,172,170
+ca_roadsigns_1066.jpg,Disaster_response_route,0.78,744,341,811,409

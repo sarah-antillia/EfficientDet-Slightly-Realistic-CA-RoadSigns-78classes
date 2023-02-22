@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1005.jpg,Uneven_surface,0.99,500,230,720,449
+ca_roadsigns_1005.jpg,Yield_sign_ahead,0.54,10,11,74,76
+ca_roadsigns_1005.jpg,School_zone,0.53,990,450,1058,518

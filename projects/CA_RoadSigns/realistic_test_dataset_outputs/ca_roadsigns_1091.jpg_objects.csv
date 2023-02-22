@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1091.jpg,Multiple_curves_ahead,0.95,748,337,949,543
+ca_roadsigns_1091.jpg,Parking,0.95,10,9,215,214
+ca_roadsigns_1091.jpg,Snowmobile_trail,0.95,253,120,460,324
+ca_roadsigns_1091.jpg,No_right_turn,0.88,500,231,610,337

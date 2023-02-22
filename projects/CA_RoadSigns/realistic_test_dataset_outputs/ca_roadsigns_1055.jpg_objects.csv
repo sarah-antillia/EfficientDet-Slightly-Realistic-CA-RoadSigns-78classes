@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1055.jpg,Dip,0.97,501,228,659,390
+ca_roadsigns_1055.jpg,Pedestrian_crosswalk_ahead,0.96,744,339,881,475
+ca_roadsigns_1055.jpg,Pedestrian_crosswalk_ahead,0.9,989,450,1128,586

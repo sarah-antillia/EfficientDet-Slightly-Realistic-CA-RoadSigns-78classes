@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1032.jpg,No_stopping,0.97,744,340,882,477
+ca_roadsigns_1032.jpg,Traffic_control_flagger_ahead,0.94,990,449,1123,582
+ca_roadsigns_1032.jpg,Traffic_signal_ahead,0.48,499,227,569,295

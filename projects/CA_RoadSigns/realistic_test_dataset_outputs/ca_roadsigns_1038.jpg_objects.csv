@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1038.jpg,Parking_permitted,0.99,743,339,879,475
+ca_roadsigns_1038.jpg,Multiple_curves_ahead,0.97,992,447,1192,650
+ca_roadsigns_1038.jpg,No_overtaking,0.95,10,8,119,119
+ca_roadsigns_1038.jpg,End_of_road,0.93,254,118,324,189
+ca_roadsigns_1038.jpg,No_right_turn_or_straight_ahead,0.91,501,232,635,364

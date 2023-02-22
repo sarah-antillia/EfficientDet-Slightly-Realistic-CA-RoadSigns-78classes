@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1050.jpg,Gentle_curve_ahead,0.99,12,10,212,208
+ca_roadsigns_1050.jpg,Motorists_must_not_pass_cyclists,0.94,255,122,392,256
+ca_roadsigns_1050.jpg,No_right_turn_or_straight_ahead,0.9,500,232,634,363
+ca_roadsigns_1050.jpg,Bicycle_route_marker,0.57,745,339,811,407

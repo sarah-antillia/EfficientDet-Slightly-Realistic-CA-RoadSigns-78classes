@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1064.jpg,Deer_area,0.99,500,229,634,364
+ca_roadsigns_1064.jpg,Deer_area,0.99,9,9,144,145
+ca_roadsigns_1064.jpg,Maximum_speed_limit,0.41,253,124,310,187

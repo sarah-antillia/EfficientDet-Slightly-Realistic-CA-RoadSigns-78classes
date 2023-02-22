@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1085.jpg,School_bus_stop_ahead,0.97,255,118,458,324
+ca_roadsigns_1085.jpg,Right_turn_required,0.94,990,446,1191,652
+ca_roadsigns_1085.jpg,No_parking,0.94,499,229,715,448
+ca_roadsigns_1085.jpg,Bicycle_crossing_ahead,0.53,8,8,78,78
+ca_roadsigns_1085.jpg,Pedestrian_crosswalk_ahead,0.44,746,340,815,408

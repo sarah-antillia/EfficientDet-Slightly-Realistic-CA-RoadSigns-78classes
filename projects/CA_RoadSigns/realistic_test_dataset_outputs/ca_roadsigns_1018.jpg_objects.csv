@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1018.jpg,Drawbridge_ahead,0.99,9,10,143,145
+ca_roadsigns_1018.jpg,Stop_ahead,0.95,498,232,701,435
+ca_roadsigns_1018.jpg,No_parking,0.94,254,120,470,338
+ca_roadsigns_1018.jpg,Yield,0.94,744,337,974,540

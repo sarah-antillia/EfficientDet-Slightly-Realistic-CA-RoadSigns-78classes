@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1097.jpg,Bicycle_crossing_ahead,0.99,255,119,458,321
+ca_roadsigns_1097.jpg,Bump,0.99,745,338,960,555
+ca_roadsigns_1097.jpg,Dangerous_goods_vehicles_prohibited,0.97,989,449,1153,613
+ca_roadsigns_1097.jpg,No_right_turn,0.97,11,10,116,117
+ca_roadsigns_1097.jpg,Railway_crossing_ahead,0.93,500,228,701,431

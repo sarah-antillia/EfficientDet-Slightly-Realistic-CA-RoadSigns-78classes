@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1092.jpg,Crosswalk_with_flashing_lights_ahead,0.99,501,230,638,367
+ca_roadsigns_1092.jpg,Chevron_marker,0.97,743,337,916,555
+ca_roadsigns_1092.jpg,Uneven_surface,0.97,991,450,1150,611
+ca_roadsigns_1092.jpg,Narrow_structure_ahead,0.94,8,10,143,144

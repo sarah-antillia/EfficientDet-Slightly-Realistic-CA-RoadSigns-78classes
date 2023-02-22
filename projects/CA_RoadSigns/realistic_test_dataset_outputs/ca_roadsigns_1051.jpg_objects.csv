@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1051.jpg,End_of_road,0.99,255,118,392,258
+ca_roadsigns_1051.jpg,Height_restriction_ahead,0.99,13,11,211,210
+ca_roadsigns_1051.jpg,Pedestrian_crosswalk_ahead,0.91,988,448,1192,651
+ca_roadsigns_1051.jpg,Double_curve_ahead,0.73,743,340,814,406

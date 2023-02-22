@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1023.jpg,Passing_lane,0.98,253,122,390,258
+ca_roadsigns_1023.jpg,Bicycle_route_marker,0.98,745,340,946,541
+ca_roadsigns_1023.jpg,Stop_ahead,0.93,499,228,662,393
+ca_roadsigns_1023.jpg,Railway_crossing,0.73,8,8,79,79
+ca_roadsigns_1023.jpg,Right_turn_required,0.47,991,448,1057,517

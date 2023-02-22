@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1059.jpg,Approaching_an_intersection,0.98,11,10,211,210
+ca_roadsigns_1059.jpg,Bus_lane,0.98,989,448,1097,583
+ca_roadsigns_1059.jpg,Keep_right,0.98,503,234,661,432
+ca_roadsigns_1059.jpg,No_overtaking,0.95,746,340,853,450
+ca_roadsigns_1059.jpg,No_left_turn,0.92,255,119,418,284

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1060.jpg,Hairpin_curve_ahead,0.99,12,10,211,211
+ca_roadsigns_1060.jpg,No_bicycles,0.97,989,449,1127,586
+ca_roadsigns_1060.jpg,Route_for_dangerous_goods_vehicles,0.94,745,340,947,544
+ca_roadsigns_1060.jpg,Height_restriction_ahead,0.84,501,229,565,296
+ca_roadsigns_1060.jpg,Crosswalk_with_flashing_lights_ahead,0.4,254,119,323,187

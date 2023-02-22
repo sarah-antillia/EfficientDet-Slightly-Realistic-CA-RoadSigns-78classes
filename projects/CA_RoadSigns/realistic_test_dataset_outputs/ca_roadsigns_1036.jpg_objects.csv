@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1036.jpg,Slow,0.98,12,9,214,212
+ca_roadsigns_1036.jpg,Sharp_curve_ahead,0.97,990,450,1193,653
+ca_roadsigns_1036.jpg,Traffic_signal_ahead,0.9,744,339,882,476
+ca_roadsigns_1036.jpg,Route_for_dangerous_goods_vehicles,0.7,255,121,322,188

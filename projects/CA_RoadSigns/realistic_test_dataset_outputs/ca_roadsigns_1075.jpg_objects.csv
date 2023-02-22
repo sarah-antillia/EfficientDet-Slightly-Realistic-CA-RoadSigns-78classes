@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1075.jpg,Motorists_must_not_pass_cyclists,0.98,990,448,1193,654
+ca_roadsigns_1075.jpg,Route_for_dangerous_goods_vehicles,0.96,500,231,635,368
+ca_roadsigns_1075.jpg,Chevron_marker,0.96,8,11,94,117
+ca_roadsigns_1075.jpg,School_crosswalk_ahead,0.9,746,339,877,473
+ca_roadsigns_1075.jpg,Traffic_signal_ahead,0.67,255,120,459,325

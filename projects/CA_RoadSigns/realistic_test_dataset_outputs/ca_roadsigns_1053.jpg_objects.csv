@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1053.jpg,Turn_left_or_right,0.98,502,228,699,430
+ca_roadsigns_1053.jpg,Uneven_surface,0.97,747,339,854,446
+ca_roadsigns_1053.jpg,Chevron_marker,0.95,991,448,1163,666
+ca_roadsigns_1053.jpg,Height_restriction_ahead,0.8,10,10,75,77
+ca_roadsigns_1053.jpg,Road_surface_slippery_when_wet,0.46,252,119,323,188

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1029.jpg,Deer_area,0.99,744,339,881,474
+ca_roadsigns_1029.jpg,Dangerous_goods_vehicles_prohibited,0.98,253,120,474,336
+ca_roadsigns_1029.jpg,Truck_route,0.96,9,10,213,215
+ca_roadsigns_1029.jpg,Traffic_control_flagger_ahead,0.92,990,449,1193,652
+ca_roadsigns_1029.jpg,One_way,0.55,502,230,633,275

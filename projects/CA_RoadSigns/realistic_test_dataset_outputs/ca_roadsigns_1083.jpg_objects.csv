@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1083.jpg,Bicycle_parking,0.99,744,340,879,473
+ca_roadsigns_1083.jpg,No_entry,0.97,255,119,389,255
+ca_roadsigns_1083.jpg,Chevron_marker,0.96,500,229,586,336
+ca_roadsigns_1083.jpg,Stop_ahead,0.91,8,11,172,169
+ca_roadsigns_1083.jpg,No_right_turn_on_red,0.9,988,447,1125,652

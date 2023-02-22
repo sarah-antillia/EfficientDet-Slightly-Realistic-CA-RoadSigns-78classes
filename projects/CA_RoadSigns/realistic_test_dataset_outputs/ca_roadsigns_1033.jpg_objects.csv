@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1033.jpg,Drawbridge_ahead,0.99,253,121,390,257
+ca_roadsigns_1033.jpg,Stop,0.99,988,449,1126,584
+ca_roadsigns_1033.jpg,No_overtaking,0.95,9,7,119,118
+ca_roadsigns_1033.jpg,Road_closed,0.93,499,231,665,396
+ca_roadsigns_1033.jpg,Advisory_speed_tab,0.74,744,340,812,409

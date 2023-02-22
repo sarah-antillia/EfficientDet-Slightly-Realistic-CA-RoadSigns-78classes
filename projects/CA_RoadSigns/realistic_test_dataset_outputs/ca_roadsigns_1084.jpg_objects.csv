@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1084.jpg,Turn_left_or_right,0.98,991,447,1196,656
+ca_roadsigns_1084.jpg,Snowmobile_trail,0.98,499,228,635,363
+ca_roadsigns_1084.jpg,Traffic_control_flagger_ahead,0.92,255,119,388,254
+ca_roadsigns_1084.jpg,Traffic_calmed_neighborhood,0.74,10,9,97,78

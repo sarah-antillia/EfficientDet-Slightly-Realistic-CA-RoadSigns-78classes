@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1015.jpg,Bicycle_route_marker,0.98,745,340,945,542
+ca_roadsigns_1015.jpg,Two_way_bicycle_lane_crossing,0.98,991,450,1123,585
+ca_roadsigns_1015.jpg,Bump,0.97,501,229,660,391
+ca_roadsigns_1015.jpg,Snowmobile_trail,0.64,9,8,75,78

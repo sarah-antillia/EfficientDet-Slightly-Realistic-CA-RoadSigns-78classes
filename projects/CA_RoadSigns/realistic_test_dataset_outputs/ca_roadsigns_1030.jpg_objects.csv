@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1030.jpg,Uneven_surface,0.98,993,450,1205,665
+ca_roadsigns_1030.jpg,Two_way_bicycle_lane_crossing,0.98,12,9,211,211
+ca_roadsigns_1030.jpg,Keep_left,0.95,744,341,907,541
+ca_roadsigns_1030.jpg,Yield_sign_ahead,0.66,254,121,319,185

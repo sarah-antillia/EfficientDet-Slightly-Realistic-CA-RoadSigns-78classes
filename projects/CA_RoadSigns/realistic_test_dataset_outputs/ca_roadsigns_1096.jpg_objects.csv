@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1096.jpg,Drawbridge_ahead,0.99,501,229,635,367
+ca_roadsigns_1096.jpg,Keep_left,0.96,8,9,116,145
+ca_roadsigns_1096.jpg,Narrow_structure_ahead,0.94,989,447,1124,583
+ca_roadsigns_1096.jpg,No_right_turn,0.94,256,120,416,281
+ca_roadsigns_1096.jpg,Dangerous_goods_vehicles_prohibited,0.48,747,342,812,407

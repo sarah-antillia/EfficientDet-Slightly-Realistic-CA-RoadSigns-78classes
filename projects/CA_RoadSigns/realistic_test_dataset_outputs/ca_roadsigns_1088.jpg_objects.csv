@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1088.jpg,Watch_for_fallen_or_falling_rocks,0.98,501,231,638,367
+ca_roadsigns_1088.jpg,Approaching_an_intersection,0.98,258,120,455,320
+ca_roadsigns_1088.jpg,Keep_right,0.95,990,451,1100,586
+ca_roadsigns_1088.jpg,Traffic_control_flagger_ahead,0.92,743,339,880,475
+ca_roadsigns_1088.jpg,Stop_ahead,0.72,9,8,75,76

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1048.jpg,Bike_lane,0.99,744,340,851,475
+ca_roadsigns_1048.jpg,Cyclists_must_dismount_their_bikes_and_walk,0.99,989,447,1123,585
+ca_roadsigns_1048.jpg,Bicycle_crossing_ahead,0.99,254,119,457,324
+ca_roadsigns_1048.jpg,Multiple_curves_ahead,0.98,499,228,638,365
+ca_roadsigns_1048.jpg,Uneven_surface,0.98,11,10,117,116

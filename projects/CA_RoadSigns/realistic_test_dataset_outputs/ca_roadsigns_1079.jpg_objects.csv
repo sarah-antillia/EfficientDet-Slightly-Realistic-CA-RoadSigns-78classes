@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1079.jpg,Hairpin_curve_ahead,0.99,990,448,1194,653
+ca_roadsigns_1079.jpg,Bump,0.99,257,121,362,227
+ca_roadsigns_1079.jpg,Parking,0.96,11,10,215,214

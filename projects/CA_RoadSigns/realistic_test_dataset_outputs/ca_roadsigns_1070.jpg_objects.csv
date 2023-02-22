@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1070.jpg,Parking_permitted,0.99,988,447,1124,585
+ca_roadsigns_1070.jpg,Drawbridge_ahead,0.98,7,8,143,144
+ca_roadsigns_1070.jpg,No_bicycles,0.98,744,339,880,474
+ca_roadsigns_1070.jpg,Sharp_curve_ahead,0.95,501,230,635,367
+ca_roadsigns_1070.jpg,Bicycle_route_marker,0.46,255,120,319,187

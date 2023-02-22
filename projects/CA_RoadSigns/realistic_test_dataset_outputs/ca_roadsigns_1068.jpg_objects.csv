@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1068.jpg,Double_curve_ahead,0.99,256,121,392,256
+ca_roadsigns_1068.jpg,Approaching_an_intersection,0.99,990,450,1194,655
+ca_roadsigns_1068.jpg,Turn_left_or_right,0.98,745,339,949,543
+ca_roadsigns_1068.jpg,No_overtaking,0.95,500,230,608,338

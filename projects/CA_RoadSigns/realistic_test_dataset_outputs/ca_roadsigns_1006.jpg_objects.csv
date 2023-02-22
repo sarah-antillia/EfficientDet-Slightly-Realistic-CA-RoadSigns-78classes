@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1006.jpg,Double_curve_ahead,0.99,745,340,880,475
+ca_roadsigns_1006.jpg,Hairpin_curve_ahead,0.99,255,120,390,256
+ca_roadsigns_1006.jpg,Truck_route,0.96,10,9,213,214
+ca_roadsigns_1006.jpg,Right_turn_required,0.92,502,230,700,431
+ca_roadsigns_1006.jpg,Maximum_speed_limit,0.59,990,451,1044,515

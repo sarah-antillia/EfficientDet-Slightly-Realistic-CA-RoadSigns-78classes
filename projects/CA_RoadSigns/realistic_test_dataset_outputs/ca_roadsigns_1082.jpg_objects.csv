@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1082.jpg,Bike_lane,0.99,254,119,361,254
+ca_roadsigns_1082.jpg,Multiple_curves_ahead,0.99,746,338,881,474
+ca_roadsigns_1082.jpg,No_right_turn_on_red,0.88,990,448,1126,656
+ca_roadsigns_1082.jpg,Shared_path_for_pedestrians_and_cyclists,0.87,499,230,700,435
+ca_roadsigns_1082.jpg,Cul_de_sac,0.79,7,8,75,78

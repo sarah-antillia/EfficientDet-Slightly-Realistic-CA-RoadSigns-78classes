@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1003.jpg,No_parking,0.95,988,448,1153,608
+ca_roadsigns_1003.jpg,No_left_turn,0.94,501,230,608,338
+ca_roadsigns_1003.jpg,No_right_turn,0.94,744,340,905,501
+ca_roadsigns_1003.jpg,Two_way_bicycle_lane_crossing,0.59,256,120,321,185

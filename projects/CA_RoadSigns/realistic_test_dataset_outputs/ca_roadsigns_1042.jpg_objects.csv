@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1042.jpg,Uneven_surface,0.99,987,447,1101,558
+ca_roadsigns_1042.jpg,Bike_lane,0.98,501,228,661,433
+ca_roadsigns_1042.jpg,Route_for_dangerous_goods_vehicles,0.97,256,121,387,253
+ca_roadsigns_1042.jpg,No_stopping,0.97,744,339,882,477
+ca_roadsigns_1042.jpg,School_zone,0.94,10,11,208,213

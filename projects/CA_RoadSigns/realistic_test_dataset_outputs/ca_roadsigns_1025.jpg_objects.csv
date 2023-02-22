@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1025.jpg,Crosswalk_with_flashing_lights_ahead,0.99,745,341,882,477
+ca_roadsigns_1025.jpg,Parking,0.99,255,121,390,255
+ca_roadsigns_1025.jpg,Uneven_surface,0.99,500,228,715,446
+ca_roadsigns_1025.jpg,Road_closed,0.97,991,451,1204,664
+ca_roadsigns_1025.jpg,Truck_route,0.96,9,9,212,213

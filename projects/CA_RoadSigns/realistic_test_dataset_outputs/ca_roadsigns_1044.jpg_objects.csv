@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1044.jpg,No_bicycles,0.99,745,340,881,476
+ca_roadsigns_1044.jpg,Pedestrian_crosswalk_ahead,0.96,256,120,390,256
+ca_roadsigns_1044.jpg,Right_turn_required,0.94,9,11,146,146
+ca_roadsigns_1044.jpg,One_way,0.62,502,233,634,274

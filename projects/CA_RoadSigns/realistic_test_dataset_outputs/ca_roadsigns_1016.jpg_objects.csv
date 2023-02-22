@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1016.jpg,End_of_road,0.99,742,339,880,476
+ca_roadsigns_1016.jpg,Left_turn_required,0.97,256,117,456,321
+ca_roadsigns_1016.jpg,Yield,0.93,992,447,1140,583
+ca_roadsigns_1016.jpg,Parking_permitted,0.6,8,8,74,77
+ca_roadsigns_1016.jpg,Hairpin_curve_ahead,0.51,505,234,567,297

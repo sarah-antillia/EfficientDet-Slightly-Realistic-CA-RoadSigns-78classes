@@ -1,0 +1,6 @@
+id, class, count
+1,Stop,1
+2,School_zone,1
+3,Turn_left_or_right,1
+4,Left_turn_required,1
+5,Railway_crossing_ahead,1

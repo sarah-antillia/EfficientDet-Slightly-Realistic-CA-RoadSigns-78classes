@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1077.jpg,Uneven_surface,0.99,501,228,716,446
+ca_roadsigns_1077.jpg,Skier_crossing,0.98,745,338,964,558
+ca_roadsigns_1077.jpg,Two_way_traffic,0.92,250,121,361,255
+ca_roadsigns_1077.jpg,Stop_ahead,0.46,9,8,76,77

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1054.jpg,Watch_for_fallen_or_falling_rocks,0.98,744,340,884,477
+ca_roadsigns_1054.jpg,Sharp_curve_ahead,0.96,257,119,454,321
+ca_roadsigns_1054.jpg,Traffic_control_flagger_ahead,0.93,988,447,1127,584
+ca_roadsigns_1054.jpg,Disaster_response_route,0.65,11,12,76,79
+ca_roadsigns_1054.jpg,Dangerous_goods_vehicles_prohibited,0.41,501,230,554,283

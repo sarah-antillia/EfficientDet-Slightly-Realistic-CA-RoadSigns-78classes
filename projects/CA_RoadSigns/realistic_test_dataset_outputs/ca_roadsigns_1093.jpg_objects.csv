@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1093.jpg,Passing_lane,0.98,745,341,878,475
+ca_roadsigns_1093.jpg,Motorists_must_not_pass_cyclists,0.97,989,447,1195,654
+ca_roadsigns_1093.jpg,Skier_crossing,0.95,501,226,659,391

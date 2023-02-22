@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1008.jpg,Bicycle_crossing_ahead,0.99,255,120,456,320
+ca_roadsigns_1008.jpg,Left_turn_required,0.98,9,8,214,215
+ca_roadsigns_1008.jpg,Dip,0.98,991,448,1213,669
+ca_roadsigns_1008.jpg,No_entry,0.96,745,341,883,477
+ca_roadsigns_1008.jpg,Uneven_surface,0.96,500,226,661,391

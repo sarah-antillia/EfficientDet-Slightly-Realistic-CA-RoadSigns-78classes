@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+ca_roadsigns_1011.jpg,Must_proceed_straight,0.99,498,231,637,365
+ca_roadsigns_1011.jpg,Watch_for_fallen_or_falling_rocks,0.98,744,340,881,477
+ca_roadsigns_1011.jpg,Hairpin_curve_ahead,0.98,9,11,148,148
+ca_roadsigns_1011.jpg,Road_closed,0.98,256,119,365,226
+ca_roadsigns_1011.jpg,Yield_sign_ahead,0.95,990,447,1125,583
